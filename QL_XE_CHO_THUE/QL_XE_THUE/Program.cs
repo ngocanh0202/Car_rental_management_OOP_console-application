@@ -27,6 +27,7 @@ namespace QL_XE_THUE
             int chon;
             do
             {
+                
                 Console.WriteLine("----------------------------------------------------------------------");
                 Console.WriteLine("0.Thoat");
                 Console.WriteLine("1.Nhap thong tin thue xe");
@@ -71,6 +72,9 @@ namespace QL_XE_THUE
                         break;
                 }
                 Console.WriteLine("----------------------------------------------------------------------");
+                Console.WriteLine("Nhan Enter de tiep tuc");
+                Console.ReadLine();
+                Console.Clear();
             } while (chon != 0);
         }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\lập trình ứng dụng .net\\New folder\\QL_XE_CHO_THUE\\QL_XE_THUE\\QL_XE_THUE.csproj",
+      "projectUniqueName": "D:\\CODE\\lập trình ứng dụng .net\\Ql_Xe_Thue\\QL_XE_CHO_THUE\\QL_XE_THUE\\QL_XE_THUE.csproj",
       "projectName": "QL_XE_THUE",
-      "projectPath": "D:\\CODE\\lập trình ứng dụng .net\\New folder\\QL_XE_CHO_THUE\\QL_XE_THUE\\QL_XE_THUE.csproj",
+      "projectPath": "D:\\CODE\\lập trình ứng dụng .net\\Ql_Xe_Thue\\QL_XE_CHO_THUE\\QL_XE_THUE\\QL_XE_THUE.csproj",
       "packagesPath": "C:\\Users\\NGOC ANH\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\lập trình ứng dụng .net\\New folder\\QL_XE_CHO_THUE\\QL_XE_THUE\\obj\\",
+      "outputPath": "D:\\CODE\\lập trình ứng dụng .net\\Ql_Xe_Thue\\QL_XE_CHO_THUE\\QL_XE_THUE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NGOC ANH\\AppData\\Roaming\\NuGet\\NuGet.Config",

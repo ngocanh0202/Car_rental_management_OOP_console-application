@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M8UcXDjQhipa/K1x0gWOUkqTw6p6NpTaubcin/3YdhnCOi9y0nAR90ktJVEuriYPV3K/Y6Qn+HafQnrksQK6KQ==",
+  "dgSpecHash": "IEu5vJ3wsz/xkiHWFCnepANggkica8QuVKATwA8RFJ5TK/ij/rf+w0vP5fkmHNRJwd3s99pWcBpF3jj8VoTu5A==",
   "success": true,
-  "projectFilePath": "D:\\CODE\\lập trình ứng dụng .net\\New folder\\QL_XE_CHO_THUE\\QL_XE_THUE\\QL_XE_THUE.csproj",
+  "projectFilePath": "D:\\CODE\\lập trình ứng dụng .net\\Ql_Xe_Thue\\QL_XE_CHO_THUE\\QL_XE_THUE\\QL_XE_THUE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NGOC ANH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
